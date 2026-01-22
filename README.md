@@ -1,2 +1,3 @@
-# SO
-Sistemas Operativos
+ # Sistemas Operativos
+Prácticas de SO da UDC
+
